@@ -1,0 +1,9 @@
+import datetime
+
+x = datetime.datetime.now()
+
+print(x)
+
+
+
+2021-08-07 18:21:40.530072

@@ -1,0 +1,8 @@
+import mymodule
+
+a = mymodule.person1["age"]
+print(a)
+
+
+C:\Users\My Name>python demo_module2.py
+36

@@ -1,0 +1,8 @@
+import mymodule as mx
+
+a = mx.person1["age"]
+print(a)
+
+
+C:\Users\My Name>python demo_module3.py
+36

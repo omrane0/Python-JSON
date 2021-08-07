@@ -1,0 +1,7 @@
+import mymodule
+
+mymodule.greeting("Jonathan")
+
+
+C:\Users\My Name>python demo_module1.py
+Hello, Jonathan
